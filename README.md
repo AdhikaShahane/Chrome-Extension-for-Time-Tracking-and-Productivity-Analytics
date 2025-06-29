@@ -17,3 +17,8 @@ The Chrome Extension for Time Tracking and Productivity Analytics is a simple, b
  This application is great for remote professionals, students, researchers, and anybody looking to reduce digital distractions and increase productivity.  Unlike typical time trackers that rely on manual check-ins or external timers, this Chrome Extension uses natural browser events and permissions to automate the entire process.  As a result, it offers real-time behavioural data with no friction and no privacy-invading procedures.  Because all data is saved locally, individuals have complete control over their information, making it a more privacy-friendly option to cloud-based monitoring solutions.Whether you want to know how much time you spend on social media, track your research efforts, or stay focused during work sessions, this extension provides a dependable and transparent solution.
 
  This addon can be enhanced in the future to incorporate features such as category classification (e.g., productive versus unproductive sites), CSV or JSON export for data analysis, graphic charts using libraries such as Chart.js, daily/weekly use summary, and even time restriction goal-setting.  For the time being, its basic approach assures that it is simple to install, straightforward to use, and resource-light, making it appropriate for all levels of Chrome users, from casual to professional.
+
+
+ ![Image](https://github.com/user-attachments/assets/1f2c726d-b2d8-455d-bcec-39bfa9d38660)
+![Image](https://github.com/user-attachments/assets/7db40c77-cde2-4cae-839d-a6fc396a6b54)
+![Image](https://github.com/user-attachments/assets/5020e194-ebc3-49fb-8b87-90c18df32e48)
